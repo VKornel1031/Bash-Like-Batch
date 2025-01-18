@@ -12,7 +12,7 @@ This project implements a Batch-like programming language interpreter in Python.
 
    ```bash
    git clone https://github.com/your-username/bash-like-batch.git
-   cd bash-like-batch
+   cd python-like-batch
 
 ## Usage
 
