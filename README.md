@@ -17,5 +17,5 @@ This project implements a Batch-like programming language interpreter in Python.
 ## Usage
 
    ```bash
-   python interpreter.py example_script.blb
+   python interpreter.py example_script.plb
 
