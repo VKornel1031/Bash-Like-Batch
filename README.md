@@ -11,7 +11,7 @@ This project implements a Batch-like programming language interpreter in Python.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/bash-like-batch.git
+   git clone https://github.com/your-username/python-like-batch.git
    cd python-like-batch
 
 ## Usage
